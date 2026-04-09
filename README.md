@@ -51,6 +51,6 @@ Note: This project focuses on understanding churn patterns and applying machine 
 * Pandas
 * Scikit-learn
 
-## 📎 Conclusion
+##  Conclusion
 
 This project demonstrates how machine learning can be applied to solve real-world business problems like customer retention.
